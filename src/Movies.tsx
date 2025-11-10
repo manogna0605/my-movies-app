@@ -35,7 +35,7 @@ export default function Movies() {
 ]
 
 
-let name = "Ramu";
+
 
   return (
     <div>
